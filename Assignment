@@ -1,1 +1,74 @@
+WEBTECHNOLOGY
+Assignment 1
+Student Name: Supriya Shrestha
+Roll no : 35
+Date:2025/12/18
+Program: BIT ‘A’
+
+Chapter 1:AN OVERVIEW OF THE INTERNET AND THE WEB
+Group A Short Question
+1. Define the term “Protocol” in the context of the Internet.
+A protocol is a set of rules and standards that define how data is transmitted and received over the Internet, ensuring proper communication between devices.
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+A web browser is software used to access and view websites (e.g., Chrome, Firefox), while a search engine is a service that helps users find websites on the Internet.
+
+3. Define the World Wide Web (WWW).
+The World Wide Web (WWW) is a collection of interlinked web pages and resources accessed over the Internet using web browsers and HTTP/HTTPS protocols.
+
+4. Distinguish between a static web page and a dynamic web page.
+A static web page shows the same content each time they are viewed. Dynamic pages have content that can change each time they are accessed.
+
+Group B: Long Questions 
+5. Explain the client-server architecture of the web with a neat diagram.
+In client-server architecture, the client (browser) requests data, and the server processes the request and sends back a response.
+•	Client sends request (URL)
+•	Server processes request
+•	Server sends response (HTML/CSS/data)
+Client (Browser)
+      |
+   Request
+      |
+Web Server
+      |
+   Response
+      |
+Client (Browser)
+
+6. Describe the functions of Email, FTP, and VoIP.
+•	Email: Used to send and receive electronic messages and attachments.
+•	FTP (File Transfer Protocol): Used to upload and download files between computers over the Internet.
+•	VoIP (Voice over Internet Protocol): Enables voice and video calls over the Internet (e.g., Zoom, Skype).
+
+7. “The Internet is a network of networks.” Explain with packet switching.
+•	The Internet connects many smaller networks worldwide. Data is broken into packets, each travelling independently through different routes. At the destination, packets are reassembled, ensuring fast and reliable data transmission.
+
+Group C: Scenario-Based Questions
+8. Static vs Dynamic website for a startup
+I would not agree with using a dynamic website because,
+•	Same content for all users
+•	Low maintenance required
+•	Cheaper hosting
+•	Faster loading
+A static website is more suitable and cost-effective for this requirement.
+
+9. Diagnose “Server Not Found” error
+The problem is a DNS failure.
+•	Domain name (www.google.com) must be translated into an IP address
+•	DNS server failed to resolve the name
+•	Direct IP access works, confirming server availability
+Thus, the DNS system failed.
+
+10. Choosing the correct network type
+The company should use an Extranet because,
+•	Allows limited access to external suppliers
+•	Secures sensitive data
+•	Not accessible to the general public
+An extranet provides controlled data sharing beyond the organisation.
+
+
+
+
+
+
 
