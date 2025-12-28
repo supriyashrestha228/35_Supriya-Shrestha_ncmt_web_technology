@@ -1,1 +1,72 @@
+WEBTECHNOLOGY
+Assignment 2
+Student Name: Supriya Shrestha
+Roll no : 35
+Date:2025/12/18
+Program: BIT ‘A’
+
+CHAPTER 2: WEBSITE DEVELOPMENT PROCES
+Group A Short Question
+1. Define the term “Sitemap” in the planning phase.
+A sitemap is a visual or structured representation of all the pages of a website and their relationships. It helps to plan website navigation and content hierarchy before development begins.
+2. What is the purpose of the “Launch” phase in web development?
+The Launch phase involves making the website live for public use after final testing, configuration, and deployment on a web server.
+3. Why is “Documentation” important in the development lifecycle?
+Documentation is important because it provides clear records of system design, functionality, and maintenance procedures, making future updates, troubleshooting, and team collaboration easier.
+________________________________________
+4. Differentiate between Front-end and Back-end development.
+Front-end Development	Back-end Development
+Focuses on the user interface	Focuses on server-side logic
+Uses HTML, CSS, JavaScript	Uses PHP, Python, Java, and databases
+Runs in the browser	Runs on the server
+________________________________________
+Group B: Long Questions (4 Marks)
+5. “Planning is the most critical phase of web development.” Discuss this statement.
+Planning is the most critical phase because it lays the foundation for the entire project. Key activities include:
+•	Defining project goals and objectives
+•	Identifying target audience and user requirements
+•	Creating sitemap and wireframes
+•	Choosing technologies and platforms
+•	Estimating budget, timeline, and resources
+Proper planning reduces errors, saves time, and ensures the project meets client expectations.
+________________________________________
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly “finished”?
+The Maintenance phase is iterative because it involves continuous updates such as fixing bugs, updating content, improving security, and adding new features.
+A website is never truly “finished” because user needs, technology, and content constantly change, requiring ongoing improvements.
+________________________________________
+7. Describe the process of “Information Gathering.” Why is understanding the target audience crucial?
+Information Gathering involves collecting details about client requirements, business goals, competitors, content needs, and target users through interviews, surveys, and research.
+Understanding the target audience is crucial because it helps design a website that matches users’ preferences, behaviour, and expectations, improving usability and engagement.
+________________________________________
+Group C: Scenario-Based Questions (5 Marks)
+8. Persuasive argument against skipping the Testing phase
+Skipping the Testing phase can cause serious risks:
+•	Security risks: Vulnerabilities may expose customer data and payment details.
+•	Functionality issues: Broken links, payment failures, or checkout errors can occur.
+•	Compatibility problems: The site may not work properly on different browsers or devices.
+Testing ensures reliability, customer trust, and long-term cost savings by preventing expensive fixes after launch.
+________________________________________
+9. Analyse what went wrong when coding began without design or sitemap
+The problem occurred due to a lack of proper planning. The developer skipped creating a sitemap and design prototype, leading to misunderstandings about layout and structure.
+This should have been handled by:
+•	Creating wireframes and sitemap
+•	Getting client approval before coding
+•	Following a structured development process
+This approach prevents rework and saves time and resources.
+________________________________________
+10. Neglected phase in the university website scenario
+The neglected phase is the Maintenance phase.
+Activities involved in this phase include:
+•	Updating content regularly
+•	Fixing errors and broken links
+•	Monitoring performance and usability
+•	Ensuring information remains accurate
+Failure to maintain the website resulted in outdated exam schedules, causing users to stop visiting.
+
+
+
+
+
+
+
 
